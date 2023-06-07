@@ -2,8 +2,8 @@
 <p align="center">
         Soy Shawnée 👋 ,<br>
         Trabajo como consultora de SEO técnico y especialista en Web Performance en <a href="https://www.bigmomo.com/es">bigmomo </a><br>
-        🌱 Actualmente estudiando Javascript, React y Web Performance<br>
-        ⚡ Hobbies: DJ, Programación, Teatro, Danza<br>
+        🌱 Actualmente estudiando Javascript y React<br>
+        ⚡ Hobbies: DJ, Programación, Podcast, Teatro, Danza<br>
     <br>
 </p>
 
