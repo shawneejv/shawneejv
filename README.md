@@ -1,18 +1,14 @@
-<h1 align="center">Hola! </h1>
-<p align="center">
-        Soy Shawnée 👋 ,<br>
-        Trabajo como consultora de SEO técnico y especialista en Web Performance en <a href="https://www.bigmomo.com/es">bigmomo </a><br>
-    <br>
-</p>
+<h3> 👋 Hola, soy Shawnée! </h3>
+<p>Trabajo como consultora de SEO técnico y especialista en Web Performance en <a href="https://www.bigmomo.com/es">bigmomo </a></p>
 
 
-### Lenguajes
+#### Lenguajes
 
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/shawneejv)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/shawneejv)
 
 
-### Tecnologías y Frameworks
+#### Tecnologías y Frameworks
 
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/shawneejv)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/shawneejv)
