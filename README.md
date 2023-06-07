@@ -2,7 +2,7 @@
 <p align="center">
         Soy Shawnée 👋 ,<br>
         Actualmente trabajo como consultora de SEO técnico y especialista en Web Performance<br>
-        🌱 Actualmente estudiando Javacript, React y Web Performance<br>
+        🌱 Actualmente estudiando Javascript, React y Web Performance<br>
         😄 Pronombres: She/Her<br>
         ⚡ Hobbies: DJ, Programación, Teatro, Danza<br>
     <br>
