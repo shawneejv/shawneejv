@@ -1,30 +1,28 @@
-### Hi there 👋
-
 <h1 align="center">Hola! </h1>
-
 <p align="center">
-    <i>
-        Soy Shawnée<br>
+        Soy Shawnée 👋 ,<br>
         Actualmente trabajo como consultora de SEO técnico y especialista en Web Performance<br>
-        - 🌱 Actualmente estudiando Javacript, React y Web Performance<br>
-        - 😄 Pronouns: She/Her<br>
-        - ⚡ Hobbies: DJ, Programación, Teatro, Baile<br>
-    </i><br>
+        🌱 Actualmente estudiando Javacript, React y Web Performance<br>
+        😄 Pronombres: She/Her<br>
+        ⚡ Hobbies: DJ, Programación, Teatro, Danza<br>
+    <br>
     <a href="https://www.linkedin.com/in/shawneejohnson/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
 </p>
 
+
 ### Lenguajes
 
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/shawneejv)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/shawneejv)
 
-### Technologies & Frameworks
 
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
-<!-- [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react) -->
+### Tecnologías Y Frameworks
+
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/shawneejv)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/shawneejv)
+<!-- [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/shawneejv) -->
 
 
 <!--
@@ -36,10 +34,10 @@
 -->
 
 <!-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 🔭 I’m currently working on ...
+👯 I’m looking to collaborate on ...
+🤔 I’m looking for help with ...
+💬 Ask me about ...
+📫 How to reach me: ...
+🔭 I’m currently working on ...
 -->
 
