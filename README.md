@@ -18,7 +18,7 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/shawneejv)
 
 
-### Tecnologías Y Frameworks
+### Tecnologías y Frameworks
 
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/shawneejv)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/shawneejv)
