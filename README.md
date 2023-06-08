@@ -1,5 +1,5 @@
 <h3> 👋 Hola, soy Shawnée! </h3>
-<p>Trabajo como consultora de SEO técnico y especialista en Web Performance en <a href="https://www.bigmomo.com/es">bigmomo </a></p>
+<p>Trabajo como consultora de SEO técnico y Web Performance en <a href="https://www.bigmomo.com/es">bigmomo </a></p>
 
 
 #### Lenguajes
